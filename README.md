@@ -1,24 +1,58 @@
 # redthread
 
+[中文版本](./README.cn.md)
+
 A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, switch through named boards. Mouse-first, written in Go.
 
-- **Upstream**: <https://github.com/B33pBeeps/redthread>
-- **Homepage**: <>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2026-06-17
-- **License**: MIT
-- **Stars**: 66 · **Forks**: 5 · **Open issues**: 1 · **Contributors**: 1
+![redthread](https://repo.x-cmd.io/redthread.svg)
 
-## Installation
+## Install
 
 ```sh
 x install redthread
 ```
 
-See <https://x-cmd.com/install/redthread> for details.
+## Code insight
 
-## Data
+Total: **4,230** lines of code across **15** files in the top 5 languages.
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 4,223 | 546 | 443 | 13 |
+| Sh | 7 | 1 | 0 | 1 |
+| Markdown | 0 | 185 | 55 | 1 |
 
-_Last regenerated: 2026-09-09T20:46:13Z._
+## Source
+
+- **Upstream**: <https://github.com/B33pBeeps/redthread>
+- **License**: MIT
+
+## Popularity
+
+- **Stars**: 67 · **Forks**: 5 · **Open issues**: 1 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 5 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 24
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 4 | 0 | 0 | 2 |
+| last180d | 2026-03-14 | 0 | 0 | 4 | 1 | 0 | 24 |
+| 360d | 2025-09-15 | 0 | 0 | 4 | 1 | 0 | 24 |
+| last720d | 2024-09-20 | 0 | 0 | 4 | 1 | 0 | 24 |
+
+## Improve this data
+
+Install metadata for redthread lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `redthread` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/redthread.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:50:02Z._
