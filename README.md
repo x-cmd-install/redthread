@@ -14,37 +14,42 @@ x install redthread
 
 ## Code insight
 
-Total: **4,230** lines of code across **15** files in the top 5 languages.
+Total: **8,781** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 4,223 | 546 | 443 | 13 |
+| Go | 8,774 | 1,305 | 987 | 33 |
 | Sh | 7 | 1 | 0 | 1 |
-| Markdown | 0 | 185 | 55 | 1 |
+| Markdown | 0 | 343 | 94 | 1 |
 
 ## Source
 
 - **Upstream**: <https://github.com/B33pBeeps/redthread>
 - **License**: MIT
 
+## Release
+
+- **Latest**: `v0.7.3` (2026-10-15)
+- **Last commit**: 2026-10-15
+
 ## Popularity
 
-- **Stars**: 69 · **Forks**: 7 · **Open issues**: 1 · **Contributors**: 1
+- **Stars**: 69 · **Forks**: 7 · **Open issues**: 1 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 6 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 24
+- **Releases**: 1 · **Merged PRs**: 6 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 48
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-17 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-04-18 | 0 | 0 | 5 | 1 | 0 | 24 |
-| 360d | 2025-10-20 | 0 | 0 | 5 | 1 | 0 | 24 |
-| last720d | 2024-10-25 | 0 | 0 | 5 | 1 | 0 | 24 |
+| 30d | 2026-09-16 | 1 | 1 | 0 | 0 | 0 | 10 |
+| last60d | 2026-08-17 | 1 | 3 | 0 | 0 | 0 | 13 |
+| 90d | 2026-07-18 | 1 | 6 | 0 | 0 | 0 | 18 |
+| last180d | 2026-04-19 | 1 | 6 | 0 | 1 | 0 | 42 |
+| 360d | 2025-10-21 | 1 | 6 | 0 | 1 | 0 | 42 |
+| last720d | 2024-10-26 | 1 | 6 | 0 | 1 | 0 | 48 |
 
 ## Improve this data
 
@@ -55,4 +60,4 @@ Install metadata for redthread lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:47:50Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:50:18Z._
