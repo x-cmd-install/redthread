@@ -44,12 +44,12 @@ Total: **8,781** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 1 | 0 | 0 | 0 | 10 |
-| last60d | 2026-09-08 | 1 | 1 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-09 | 1 | 6 | 0 | 0 | 0 | 18 |
-| last180d | 2026-05-11 | 1 | 6 | 0 | 1 | 0 | 22 |
-| 360d | 2025-11-12 | 1 | 6 | 0 | 1 | 0 | 42 |
-| last720d | 2024-11-17 | 1 | 6 | 0 | 1 | 0 | 48 |
+| 30d | 2026-10-09 | 1 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 1 | 1 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-10 | 1 | 6 | 0 | 0 | 0 | 13 |
+| last180d | 2026-05-12 | 1 | 6 | 0 | 1 | 0 | 20 |
+| 360d | 2025-11-13 | 1 | 6 | 0 | 1 | 0 | 42 |
+| last720d | 2024-11-18 | 1 | 6 | 0 | 1 | 0 | 48 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for redthread lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:25:16Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:14:39Z._
